@@ -1,3 +1,2 @@
 #!/bin/sh
-conda activate textgen
 python ~/textgen/server.py --listen --auto-devices --model-menu
